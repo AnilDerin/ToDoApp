@@ -1,6 +1,57 @@
 
-**This is one of the projects I built with Jetpack Compose . A To-Do app built with MVMM Design Pattern.**
+## This is one of the projects I built with Jetpack Compose . A To-Do app built with MVMM Design Pattern.
+
+<br>
+
+
+## I used SQL for Database and MVMM Design pattern in this project.
+
+<br>
+<br>
+<br>
+
+
+## LOGIN SCREEN
+
+<a href="https://raw.githubusercontent.com/AnilDerin/ToDoApp/master/Screenshot_1642610367.png"> <img width="350" src="https://raw.githubusercontent.com/AnilDerin/ToDoApp/master/Screenshot_1642610367.png" title="clima gif" /> </a>
+
+<br>
+<br>
+<br>
+
+## TASK ADD SCREEN 
+
+<a href="https://raw.githubusercontent.com/AnilDerin/ToDoApp/master/Screenshot_1642610369.png"> <img width="350" src="https://raw.githubusercontent.com/AnilDerin/ToDoApp/master/Screenshot_1642610369.png" title="clima gif" /> </a>
+
+<br>
+<br>
+<br>
+
+## SORT BY PRIORITIY
+
+<a href="https://raw.githubusercontent.com/AnilDerin/ToDoApp/master/Screenshot_1642611972.png"> <img width="350" src="https://raw.githubusercontent.com/AnilDerin/ToDoApp/master/Screenshot_1642611972.png" title="clima gif" /> </a>
+
+<br>
+<br>
+<br>
+
+## SEARCH TASK  
+
+<a href="https://raw.githubusercontent.com/AnilDerin/ToDoApp/master/Screenshot_1642611984.png"> <img width="350" src="https://raw.githubusercontent.com/AnilDerin/ToDoApp/master/Screenshot_1642611984.png" title="clima gif" /> </a>
+
+<br>
+<br>
+<br>
+
+## REMOVE ALL TASKS
+
+<a href="https://raw.githubusercontent.com/AnilDerin/ToDoApp/master/Screenshot_1642611977.png"> <img width="350" src="https://raw.githubusercontent.com/AnilDerin/ToDoApp/master/Screenshot_1642611977.png" title="clima gif" /> </a>
+
+<br>
+<br>
+<br>
 
 
 
-**I used SQL for Database and MVMM Design pattern in this project.**
+
+
