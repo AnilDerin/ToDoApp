@@ -4,7 +4,27 @@
 <br>
 
 
-## I used SQL for Database and MVMM Design pattern in this project.
+## I used these technologies in this project :
+
+
+**<li> Custom UI Components**
+**<li> ROOM Database**
+**<li> Compose Navigation**
+**<li> ViewModel**
+**<li> Dependency Injection with Dagger-Hilt**
+**<li> Preferences DataStore**
+**<li> Support for Dark and Light Themes**
+**<li> Animate UI Components**
+**<li> Animated Splash Screen**
+**<li> Swipe to Delete Animation**
+**<li> SharedViewModel**
+**<li> Clean Architecture**
+**<li> MVVM**
+**<li> Transition Animations**
+  
+
+
+in this project.
 
 <br>
 <br>
